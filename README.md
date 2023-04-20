@@ -20,7 +20,7 @@ Le projet Application Météo C# est un projet dont le but est de recréer une a
 ## II. Utilisation de l'application
 
 Pour lancer le projet, vous avez seulement besoin de :
-- cloner ou télécharger ce repository avec la commande `git clone https://ytrack.learn.ynov.com/git/MJUILLARD-FONTANILLE/CSharp-Meteo.git`
+- cloner ou télécharger ce repository avec la commande `git clone https://github.com/Archilive/App-Weather-API.git`
 - ouvrir un terminal et vous diriger dans le dossier contenant le projet.
 - vous n'avez plus qu'à exécuter la commande `dotnet run`.
 
